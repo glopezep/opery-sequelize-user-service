@@ -1,0 +1,21 @@
+{
+  "name": "opery-sequelize-user-service",
+  "version": "0.0.1",
+  "description": "User service for opery",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/glopezep/opery-sequelize-user-service"
+  },
+  "keywords": [
+    "service",
+    "respository",
+    "sequelize",
+    "opery"
+  ],
+  "author": "Guillermo Lopez",
+  "license": "MIT"
+}
